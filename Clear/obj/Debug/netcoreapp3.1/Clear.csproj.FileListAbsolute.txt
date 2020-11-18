@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.exe
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.deps.json
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.runtimeconfig.json
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.dll
+C:\Users\opilane\source\repos\Clear\Clear\bin\Debug\netcoreapp3.1\Clear.pdb
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.dll
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.pdb
+C:\Users\opilane\source\repos\Clear\Clear\obj\Debug\netcoreapp3.1\Clear.genruntimeconfig.cache
